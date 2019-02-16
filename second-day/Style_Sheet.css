@@ -1,0 +1,46 @@
+h1 {
+
+    color:rgb(48, 48, 48);
+    font-family: arial;
+    font-size: 70px;
+
+
+
+}
+
+h2 {
+    color:rgb(48, 48, 48);
+    font-family: arial;
+    font-size: 20px;
+
+
+}
+
+body {
+    background-color:  rgb(228, 194, 194);
+}
+
+p {
+font-family: arial;
+padding-right: 600px;
+padding-left: 80px; 
+font-size: 18px;
+color:rgb(48, 48, 48);
+
+
+}
+
+li {
+    font-family: arial;
+padding-right: 50px;
+padding-left: 15px;
+color: rgb(48, 48, 48);
+font-weight: bold;
+font-size: 18px;
+
+
+}
+
+img {
+    padding-left: 50px;
+}
